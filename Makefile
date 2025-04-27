@@ -8,7 +8,6 @@ SRCS =
 MAIN_SRC = main.cpp
 TEST_SRC = TestMain.cpp Test.cpp
 
-
 all: main test
 
 main: main.cpp $(SRCS)
