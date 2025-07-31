@@ -109,7 +109,7 @@ make clean
 
 #### בדיקת דליפות זיכרון עם Valgrind:
 
-ה-makefile כולל פקודה מובנית להרצת valgrind:
+ה-makefile כולל פקודה מובנית להרצת valgrind, על קובץ ה- main ועל קובץ ה-test:
 
 ```bash
 make valgrind
